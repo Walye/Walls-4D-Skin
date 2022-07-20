@@ -1,0 +1,13 @@
+{
+  "skins": [
+    {
+      "localization_name": "Walls",
+      "geometry": "geometry":ChineseMythology.MoonSpiritJadeRabbit",
+      "texture": "skin.png",
+      "cape": "cape.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Walls",
+  "localization_name": "Walls"
+}
